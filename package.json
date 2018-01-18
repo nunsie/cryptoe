@@ -1,0 +1,25 @@
+{
+  "name": "cryptoe",
+  "version": "0.0.1",
+  "description": "Unified cryptocurrency exchange api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nunsie/cryptoe.git"
+  },
+  "keywords": [
+    "crypto",
+    "cryptocurrency",
+    "exchange",
+    "api"
+  ],
+  "author": "nusrath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nunsie/cryptoe/issues"
+  },
+  "homepage": "https://github.com/nunsie/cryptoe#readme"
+}
